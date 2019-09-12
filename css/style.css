@@ -1,8 +1,9 @@
 body {
   text-align: center;
+  background-color: aqua;
 }
 
-p {
-  background-color: aqua;
+p,
+h1 {
   color: blue;
 }
